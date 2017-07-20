@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Cricket Score Tracker</string>
+    <string name="six">+6 Runs</string>
+    <string name="four">+4 Runs</string>
+    <string name="three">+3 Runs</string>
+    <string name="two">+2 Runs</string>
+    <string name="one">+1 Runs</string>
+    <string name="dot">0 (Dot)</string>
+    <string name="out">out</string>
+    <string name="reset">Reset</string>
+    <string name="choose">Which team is batting?</string>
+    <string name="team_a">Team A</string>
+    <string name="team_b">Team B</string>
+    <string name="run">Runs</string>
+    <string name="wicket">Wickets : #</string>
+    <string name="ball">Balls: #</string>
+    <string name="zero">0</string>
+    <string name="toast_select_first">Please select the batting team first!</string>
+    <string name="error">Something went wrong!</string>
+    <string name="desc">Image with two bats and ball</string>
+</resources>
